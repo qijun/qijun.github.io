@@ -4,7 +4,7 @@ layout: post
 title: hello work
 categories : diary
 thread: 100 
-tags : [work]
+tags : [diary, work]
 ---
 
 #### 关于博客
