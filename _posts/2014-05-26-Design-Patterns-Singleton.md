@@ -86,3 +86,6 @@ tags : [Design Patterns,Notes]
 ####缺点:
 1.增加开销
 2.无法销毁对象
+***
+参考文档
+汤姆大叔的博客：[别再让面试官问你单例（暨6种实现方式让你堵住面试官的嘴）]（http://www.cnblogs.com/TomXu/archive/2011/12/19/2291448.html）
